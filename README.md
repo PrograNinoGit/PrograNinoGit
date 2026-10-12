@@ -2,6 +2,6 @@
 
 I build websites, 3D in the browser and Java games, and I learn by making things myself.
 
-🔍 **Currently looking for work**
-🔭 Working on: ADIRONDUCK, a demo shop with a 3D configurator built in Three.js
-🌐 My projects in detail: [Portfolio](https://prograninogit.github.io/portfolio/)
+- 🔍 **Currently looking for work**
+- 🔭 Working on: [ADIRONDUCK](https://prograninogit.github.io/adirondack-site/), a demo shop with a 3D configurator built in Three.js
+- 🌐 My projects in detail: [Portfolio](https://prograninogit.github.io/portfolio/)
