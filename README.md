@@ -32,17 +32,6 @@ I'm passionate about programming and technology. I enjoy learning new things by 
   <img src="https://skillicons.dev/icons?i=html,css,js,threejs,java,cs,git,github,vscode&theme=dark" alt="Technologies" />
 </p>
 
----
-
-## 📊 GitHub Statistics
-
-
----
-
-## 📊 GitHub Statistics
-
-
----
 
 ## 🗣️ Languages I Use
 
