@@ -36,5 +36,23 @@ I'm passionate about programming and technology. I enjoy learning new things by 
 
 ## 📊 GitHub Statistics
 
+
+---
+
+## 📊 GitHub Statistics
+
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PrograNinoGit&show_icons=true&hide_border=true&bg_color=0D1117&title_color=BD93F9&icon_color=FF
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=PrograNinoGit&show_icons=true&hide_border=true&bg_color=0D1117&title_color=BD93F9&icon_color=FF79C6&text_color=F8F8F2"
+    height="180"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=PrograNinoGit&layout=compact&hide_border=true&bg_color=0D1117&title_color=BD93F9&text_color=F8F8F2&langs_count=8"
+    height="180"
+    alt="Most Used Languages"
+  />
+</p>
+
+---
+
