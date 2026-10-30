@@ -45,13 +45,3 @@ I'm passionate about programming and technology. I enjoy learning new things by 
 </p>
 
 ---
-
-
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=PrograNinoGit&layout=compact&hide_border=true&bg_color=0D1117&title_color=BD93F9&text_color=F8F8F2&langs_count=8"
-    height="180"
-    alt="Most Used Languages"
-  />
-</p>
-
----
-
