@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Learning+by+Building;Exploring+Software+Development;Creating+Personal+Projects;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PrograNinoGit&style=for-the-badge&color=bd93f9&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
-
 ---
 
 ## 💫 About Me
